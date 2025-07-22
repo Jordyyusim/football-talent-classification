@@ -16,11 +16,11 @@ The model uses various player statistics (goals, assists, minutes played, cards,
 
 ## 📸 Screenshots
 
-![1](screenshots/info.png)
-![2](screenshots/report.png)
-![3](screenshots/crossval.png)
-![4](screenshots/result_indo_league.png)
-![5](screenshots/result_single_player.png)
+![1](football-talent-classification/screenshots/info.png)
+![2](football-talent-classification/screenshots/report.png)
+![3](football-talent-classification/screenshots/crossval.png)
+![4](football-talent-classification/screenshots/result_indo_league.png)
+![5](football-talent-classification/screenshots/result_single_player.png)
 
 ## 🛠️ Built With
 
