@@ -1,7 +1,7 @@
 # ⚽ Scout Football Talent
 
 A machine learning classification built in Python to scout a talented young **football player from a small league** deserves a move to a **top-tier league**.
-The model uses various player statistics (goals, assists, minutes played, cards, etc.) to predict **“Potential”** (label 1) or **“Not Potential”** (label 0), based on historical performance data.
+The model uses various player statistics (goals, assists, minutes played, cards, etc.) to predict **“Potential”** (label 1) or **“Not Potential”** (label 0), based on league historical performance data.
 
 ## 🌟 Steps
 
